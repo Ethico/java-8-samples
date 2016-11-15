@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Ethico/java-8-samples.png)](https://travis-ci.org/Ethico/java-8-samples)
-
+[![Coverage Status](https://coveralls.io/repos/github/Ethico/java-8-samples/badge.svg)](https://coveralls.io/github/Ethico/java-8-samples)
 ## Project Name
 Java 8 samples
 
